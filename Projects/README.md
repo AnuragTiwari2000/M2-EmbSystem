@@ -39,3 +39,12 @@
          4.2.2. [LOW LEVEL](low-level)
 
  5. [APPLICATIONS](#applications)
+ 
+ # 1.INTRODUCTION
+
+ ## 1.1ABSTRACT
+ Water tank controller with Quality check is a system that shall be used to refill water tanks in houses and commercial buildings and monitor the water quality as well. This helps in elimination of manual monitoring and refilling of water tanks. The major advantages of the system is that it helps in automating tasks and also there is no wastage of water overflowing from tanks. It also provides the facility to check water quality as well. The components used in the system is very simple which makes the product economically accessible as well. The overall system development phase is explained.
+
+ ## 1.2 OBJECTIVE
+ * To refill the water tank automatically without any wastage of water and power.
+ * To monitor the quality of water and alert the user.
