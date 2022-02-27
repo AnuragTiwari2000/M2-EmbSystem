@@ -2,13 +2,13 @@
 
 # TABLES OF CONTENTS
 
-1. [Introduction](#introduction)
+1. [INTRODUCTION](#introduction)
 
    1.1. [ABSTRACT](#abstract)
 
    1.2. [OBJECTIVE](#objective)
    
-2. [Requriments](#requriments)
+2. [REQUIREMENTS](#requriments)
    
    2.1. [High Level Requriment](#high-level-requriment)
    
@@ -18,7 +18,7 @@
 
    2.4. [5W'S 1H](#5w's-1h)
 
-3. [BLOCK DIAGRAM AND COMPONENTS](#block-diagram-and-components)
+3. [BLOCK DIAGRAM AND COMPONENTS DESCRIPTION](#block-diagram-and-components)
 
    3.1. [BLOCK DIAGRAM](#block-diagram)
 
@@ -49,7 +49,7 @@
  * To refill the water tank automatically without any wastage of water and power.
  * To monitor the quality of water and alert the user.
  
- # 2.REQUIREMENT
+ # 2.REQUIREMENTS
  
  ## 2.1 High Level Requirements:
 
@@ -117,7 +117,7 @@ LLR 4  |A Motor Driver shall be used to switch ON the motor.
 
 ![image](https://user-images.githubusercontent.com/98815562/155871277-697ab2ee-c0bb-45dd-9eaa-49acb325e3ab.png)
 
-## 3.2 Components Description
+## 3.2 COMPONENTS DESCRIPTION
 
 ### Microcontroller
       Microcontroller is used to control the overall process in automating the refill of water into the tank.
