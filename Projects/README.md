@@ -2,22 +2,12 @@
 
 # TABLES OF CONTENTS
 
-1. INTRODUCTION
-   1.1 ABSTRACT
-   1.2 OBJECTIVE
-2. REQUIREMENTS
-   2.1	HIGH LEVEL REQUIREMENTS
-   2.2	LOW LEVEL REQUIREMENTS
-   2.3	SWOT ANALYSIS
-   2.4	5W'S 1H
-3. BLOCK DIAGRAM AND COMPONENTS
-   3.1	BLOCK DIAGRAM
-   3.2	COMPONENT DESCRIPTION
-4. ARCHITECTURE
-   4.1 BEHAVIOURAL DIAGRAMS
-       4.1.1	HIGH LEVEL
-       4.1.2	LOW LEVEL
-   4.2	STRUCTURAL DIAGRAMS
-       4.2.1	HIGH LEVEL
-       4.2.2	LOW LEVEL
-5. APPLICATIONS
+1. [Introduction](#introduction)
+   
+  2. [Purpose](#purpose)
+   
+  3. [Requriments](#requriments)
+   
+     * [High Level Requriment](#high-level-requriment)
+   
+     * [Low Level Requriment](#low-level-requriment)
