@@ -16,7 +16,7 @@
 
    2.3. [SWOT ANALYSIS](#swot-analysis)
 
-   2.4. [5W'S 1H](#5w's 1h)
+   2.4. [5W'S 1H](#5w's-1h)
 
 3. [BLOCK DIAGRAM AND COMPONENTS](#block-diagram-and-components)
 
