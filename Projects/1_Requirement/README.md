@@ -1,8 +1,8 @@
 # WATER TANK CONTROLLER WITH QUALITY CHECK
 
-# 2.REQUIREMENTS
+# REQUIREMENTS
  
- ## 2.1 High Level Requirements:
+ ## High Level Requirements:
 
 ID     | Description
 -------| -----------------------------------------
@@ -11,7 +11,7 @@ HLR 2  |Alert the user when the tank is filled.
 HLR 3  |To check the quality of water and alert user.
 HLR 4  |To turn ON the motor when the tank becomes empty.
 
-## 2.2 Low Level Requirements:
+## Low Level Requirements:
 
 
 ID     | Description
@@ -22,7 +22,7 @@ LLR 2  |Buzzer is used to alert the user.
 LLR 3  |A water Quality sensor is used to chechk the quality of the water
 LLR 4  |A Motor Driver shall be used to switch ON the motor.
 
-## 2.3 SWOT ANALYSIS
+## SWOT ANALYSIS
 
 ### STRENGTH
 
@@ -47,7 +47,7 @@ LLR 4  |A Motor Driver shall be used to switch ON the motor.
   * External Damage.
   * Theft
 
-## 2.4 5W'S 1H
+## 5W'S 1H
 
 ### WHAT
    This a controller that helps to automaticlly refill the water tank using sensors and micro controller.
