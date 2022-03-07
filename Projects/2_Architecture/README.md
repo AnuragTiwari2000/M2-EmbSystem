@@ -19,3 +19,25 @@
 ### 2.2 LOW LEVEL STRUCTURAL DIAGRAM
 
 ![LOW LEVEL](https://user-images.githubusercontent.com/98815562/155871682-040c1e9a-2aa3-4144-834e-76bd9ea63c4c.png)
+
+## COMPONENTS DESCRIPTION
+
+### Arduino
+     Arduino is a one type of micro controller circuit ATmega328P. The programme is carried out in the arduino by using the arduino software in the programming languages like C      and C++ .
+### SENSORS
+#### Water level sensor
+    Two water level sensors are used to detect the water level. One for detecting if the tank is empty and another one detecting the top level of the tank.
+
+### ACTUATORS
+
+#### Motor Driver Circuit
+    Motor Driver circuit is used to switch on and off the based upon the signals received from the sensors.
+
+#### LED’s
+    Shows the status of motor wether it is on or off.
+
+### Power Supply
+     AC power supply is converted to DC and given to the circuit in order to run it.
+     
+### Resistors
+     to protect LED and complete the circuit.
