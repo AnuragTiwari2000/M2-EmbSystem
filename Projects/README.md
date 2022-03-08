@@ -8,7 +8,7 @@
 
     1.2. [OBJECTIVE](#12-objective)
    
-2. [REQUIREMENTS](#2-requriments)
+2. [REQUIREMENTS](#2-requirments)
    
      2.1. [High Level Requirments](#21-high-level-requirments)
    
