@@ -18,7 +18,7 @@
 
      2.4. [5W and 1H](#24-5w-and-1h)
 
-3. [BLOCK DIAGRAM AND COMPONENTS DESCRIPTION](#3-block-diagram-and-components)
+3. [BLOCK DIAGRAM AND COMPONENTS DESCRIPTION](#3-block-diagram-and-components-description)
 
      3.1. [BLOCK DIAGRAM](#31-block-diagram)
 
