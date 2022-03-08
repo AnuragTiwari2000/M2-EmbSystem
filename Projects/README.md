@@ -10,9 +10,9 @@
    
 2. [REQUIREMENTS](#2-requriments)
    
-     2.1. [High Level Requirments](#21-high-level-requriments)
+     2.1. [High Level Requirments](#21-high-level-requirments)
    
-     2.2. [Low Level Requirments](#22-low-level-requriments)
+     2.2. [Low Level Requirments](#22-low-level-requirments)
  
      2.3. [SWOT ANALYSIS](#23-swot-analysis)
 
@@ -34,7 +34,7 @@
    
     4.2. [STRUCTURAL DIAGRAMS](#42-structural-diagrams)
 
-      4.2.1. [HIGH LEVEL STRUCTURAL DIAGRAM](#421-high-level-stryctural-diagram)
+      4.2.1. [HIGH LEVEL STRUCTURAL DIAGRAM](#421-high-level-structural-diagram)
 
       4.2.2. [LOW LEVEL STRUCTURAL DIAGRAM](#422-low-level-structural-diagram)
 
