@@ -28,15 +28,15 @@
    
    4.1. [BEHAVIOURAL DIAGRAMS](#behavioural-diagrams)
          
-     4.1.1. [HIGH LEVEL](#high-level)
+      4.1.1. [HIGH LEVEL](#high-level)
          
-     4.1.2. [LOW LEVEL](#low-level)
+      4.1.2. [LOW LEVEL](#low-level)
    
    4.2. [STRUCTURAL DIAGRAMS](#structural-diagram)
 
-     4.2.1. [HIGH LEVEL](#high-level)
+      4.2.1. [HIGH LEVEL](#high-level)
 
-     4.2.2. [LOW LEVEL](low-level)
+      4.2.2. [LOW LEVEL](low-level)
 
  5. [APPLICATIONS](#applications)
  
