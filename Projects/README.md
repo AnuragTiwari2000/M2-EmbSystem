@@ -28,7 +28,7 @@
    
    4.1. [BEHAVIOURAL DIAGRAMS](#41-behavioural-diagrams)
          
-      4.1.1. [HIGH LEVEL BEHAVIOURAL DIAGRAMS](#411-high-level-behavioral diagrams)
+      4.1.1. [HIGH LEVEL](#411-high-level-behavioral diagrams)
          
       4.1.2. [LOW LEVEL](#412-low-level)
    
