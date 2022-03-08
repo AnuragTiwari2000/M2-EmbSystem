@@ -12,3 +12,9 @@ Design of Embedded Project using Arduino
 # CPP Check
 
 [![C/C++ CI](https://github.com/AnuragTiwari2000/M2-EmbSystem/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/AnuragTiwari2000/M2-EmbSystem/actions/workflows/c-cpp.yml)
+
+# CODIGA
+
+![code quality](https://api.codiga.io/project/31686/score/svg) ![code grade](https://api.codiga.io/project/31686/status/svg)
+
+
