@@ -44,7 +44,7 @@
 
  5. [APPLICATIONS](#5-applications)
  
- # 1.INTRODUCTION
+ # 1 INTRODUCTION
 
  ## 1.1 ABSTRACT
  Water tank controller with Quality check is a system that shall be used to refill water tanks in houses and commercial buildings and monitor the water quality as well. This helps in elimination of manual monitoring and refilling of water tanks. The major advantages of the system is that it helps in automating tasks and also there is no wastage of water overflowing from tanks. Level control is one of the most important applications in chemical process industries, food beverages industries, pharmaceutical industries,
@@ -54,7 +54,7 @@ nuclear power generation plants etc. It also provides the facility to check wate
  * To refill the water tank automatically without any wastage of water and power.
  * To monitor the quality of water and alert the user.
  
- # 2.REQUIREMENTS
+ # 2 REQUIREMENTS
  
  ## 2.1 High Level Requirments
 
@@ -116,7 +116,7 @@ LLR 4  |A Motor Driver shall be used to switch ON the motor.
 ### HOW
    By using a micro-controller, sensors and few actuators.
    
-# 3. BLOCK DIAGRAM & COMPONENTS DESCRIPTION
+# 3 BLOCK DIAGRAM & COMPONENTS DESCRIPTION
 
 ## 3.1 BLOCK DIAGRAM
 
@@ -146,7 +146,7 @@ LLR 4  |A Motor Driver shall be used to switch ON the motor.
 ### Resistors
      to protect LED and complete the circuit.
      
-# 4.ARCHITECTURE
+# 4 ARCHITECTURE
 
 ## 4.1 BEHAVIOURAL DIAGRAMS
 
