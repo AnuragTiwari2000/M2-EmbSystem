@@ -130,7 +130,8 @@ LLR 4  |A Motor Driver shall be used to switch ON the motor.
 ### ACTUATORS
 
 #### Motor Driver Circuit
-    Motor Driver circuit is used to switch on and off the based upon the signals received from the sensors.
+    * Motor Driver circuit is used to switch on and off the based upon the signals received from the sensors.
+    * Pump is a mechanical device which converts the mechanical energy into the pressure energy. It creates the partial vacuum in the suction side and sucks the liquid which is       delivered with high pressure at a required height.
 
 #### LED’s
     Shows the status of motor wether it is on or off.
