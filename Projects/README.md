@@ -16,13 +16,13 @@
 
    2.3. [SWOT ANALYSIS](#23-swot-analysis)
 
-   2.4. [5W'S 1H](#24-5W'S-1H)
+   2.4. [5W'S 1H](#24-5w's-1h)
 
 3. [BLOCK DIAGRAM AND COMPONENTS DESCRIPTION](#3-block-diagram-and-components)
 
    3.1. [BLOCK DIAGRAM](#31-block-diagram)
 
-   3.2. [COMPONENT DESCRIPTION](#32-components-description)
+   3.2. [COMPONENTS DESCRIPTION](#32-components-description)
 
 4. [ARCHITECTURE](#architecture)
    
@@ -30,13 +30,13 @@
          
       4.1.1. [HIGH LEVEL BEHAVIOURAL DIAGRAM](#411-high-level-behavioural-diagram)
          
-      4.1.2. [LOW LEVEL](#412-low-level)
+      4.1.2. [LOW LEVEL BEHAVIORAL DIAGRAM](#412-low-level-behavioural-diagram)
    
-   4.2. [STRUCTURAL DIAGRAMS](#42-structural-diagram)
+   4.2. [STRUCTURAL DIAGRAMS](#42-structural-diagrams)
 
-      4.2.1. [HIGH LEVEL](#421-high-level)
+      4.2.1. [HIGH LEVEL STRUCTURAL DIAGRAM](#421-high-level-stryctural-diagram)
 
-      4.2.2. [LOW LEVEL](#422-low-level)
+      4.2.2. [LOW LEVEL STRUCTURAL DIAGRAM](#422-low-level-structural-diagram)
 
  5. [APPLICATIONS](#5-applications)
  
@@ -112,7 +112,7 @@ LLR 4  |A Motor Driver shall be used to switch ON the motor.
 ### HOW
    By using a micro-controller, sensors and few actuators.
    
-# 3. BLOCK DIAGRAM & COMPONENT DESCRIPTION
+# 3. BLOCK DIAGRAM & COMPONENTS DESCRIPTION
 
 ## 3.1 BLOCK DIAGRAM
 
