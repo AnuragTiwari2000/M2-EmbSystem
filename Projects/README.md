@@ -10,9 +10,9 @@
    
 2. [REQUIREMENTS](#2-requriments)
    
-   2.1. [High Level Requriment](#21-high-level-requriments)
+   2.1. [High Level Requriments](#21-high-level-requriments)
    
-   2.2. [Low Level Requriment](#22-low-level-requriments)
+   2.2. [Low Level Requriments](#22-low-level-requriments)
 
    2.3. [SWOT ANALYSIS](#23-swot-analysis)
 
