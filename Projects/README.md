@@ -2,13 +2,13 @@
 
 # TABLES OF CONTENTS
 
-1. [INTRODUCTION](#1-introduction)
+1 [INTRODUCTION](#1-introduction)
 
    1.1. [ABSTRACT](#11-abstract)
 
    1.2. [OBJECTIVE](#12-objective)
    
-2. [REQUIREMENTS](#2-requriments)
+2 [REQUIREMENTS](#2-requriments)
    
    2.1. [High Level Requriments](#21-high-level-requriments)
    
@@ -18,13 +18,13 @@
 
    2.4. [5W'S 1H](#24-5w's-1h)
 
-3. [BLOCK DIAGRAM AND COMPONENTS DESCRIPTION](#3-block-diagram-and-components)
+3 [BLOCK DIAGRAM AND COMPONENTS DESCRIPTION](#3-block-diagram-and-components)
 
    3.1. [BLOCK DIAGRAM](#31-block-diagram)
 
    3.2. [COMPONENTS DESCRIPTION](#32-components-description)
 
-4. [ARCHITECTURE](#architecture)
+4 [ARCHITECTURE](#architecture)
    
    4.1. [BEHAVIOURAL DIAGRAMS](#41-behavioural-diagrams)
          
@@ -38,7 +38,7 @@
 
       4.2.2. [LOW LEVEL STRUCTURAL DIAGRAM](#422-low-level-structural-diagram)
 
- 5. [APPLICATIONS](#5-applications)
+ 5 [APPLICATIONS](#5-applications)
  
  # 1.INTRODUCTION
 
