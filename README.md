@@ -17,4 +17,8 @@ Design of Embedded Project using Arduino
 
 ![code quality](https://api.codiga.io/project/31686/score/svg) ![code grade](https://api.codiga.io/project/31686/status/svg)
 
+# CODACY
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/21498be233ac4bb2b336b3098db0d2be)](https://www.codacy.com/gh/Anuragtiwari2000/M2-EmbSystem/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Anuragtiwari2000/M2-EmbSystem&amp;utm_campaign=Badge_Grade) 
+
 
