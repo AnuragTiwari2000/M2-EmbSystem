@@ -16,7 +16,7 @@
  
      2.3. [SWOT ANALYSIS](#23-swot-analysis)
 
-     2.4. [5W'S 1H](#24-5w's-1h)
+     2.4. [5W's and 1H](#24-5w's-and-1h)
 
 3. [BLOCK DIAGRAM AND COMPONENTS DESCRIPTION](#3-block-diagram-and-components)
 
@@ -97,7 +97,7 @@ LLR 4  |A Motor Driver shall be used to switch ON the motor.
   * External Damage.
   * Theft
 
-## 2.4 5W'S 1H
+## 2.4 5W's and 1H
 
 ### WHAT
    This a controller that helps to automaticlly refill the water tank using sensors and micro controller.
