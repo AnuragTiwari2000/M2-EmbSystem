@@ -24,7 +24,7 @@
 
      3.2. [COMPONENTS DESCRIPTION](#32-components-description)
 
-4. [ARCHITECTURE](#architecture)
+4. [ARCHITECTURE](#4-architecture)
    
     4.1. [BEHAVIOURAL DIAGRAMS](#41-behavioural-diagrams)
          
