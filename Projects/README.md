@@ -2,43 +2,43 @@
 
 # TABLES OF CONTENTS
 
-1. [INTRODUCTION](#introduction)
+1. [INTRODUCTION](#1-introduction)
 
    1.1. [ABSTRACT](#11-abstract)
 
-   1.2. [OBJECTIVE](#objective)
+   1.2. [OBJECTIVE](#12-objective)
    
-2. [REQUIREMENTS](#requriments)
+2. [REQUIREMENTS](#2-requriments)
    
-   2.1. [High Level Requriment](#high-level-requriment)
+   2.1. [High Level Requriment](#21-high-level-requriment)
    
-   2.2. [Low Level Requriment](#low-level-requriment)
+   2.2. [Low Level Requriment](#22-low-level-requriment)
 
-   2.3. [SWOT ANALYSIS](#swot-analysis)
+   2.3. [SWOT ANALYSIS](#23-swot-analysis)
 
-   2.4. [5W'S 1H](#5w's-1h)
+   2.4. [5W'S 1H](#24-5w's-1h)
 
-3. [BLOCK DIAGRAM AND COMPONENTS DESCRIPTION](#block-diagram-and-components)
+3. [BLOCK DIAGRAM AND COMPONENTS DESCRIPTION](#3-block-diagram-and-components)
 
-   3.1. [BLOCK DIAGRAM](#block-diagram)
+   3.1. [BLOCK DIAGRAM](#31-block-diagram)
 
-   3.2. [COMPONENT DESCRIPTION](#component-description)
+   3.2. [COMPONENT DESCRIPTION](#32-component-description)
 
 4. [ARCHITECTURE](#architecture)
    
-   4.1. [BEHAVIOURAL DIAGRAMS](#behavioural-diagrams)
+   4.1. [BEHAVIOURAL DIAGRAMS](#41-behavioural-diagrams)
          
-      4.1.1. [HIGH LEVEL](#high-level)
+      4.1.1. [HIGH LEVEL](#411-high-level)
          
-      4.1.2. [LOW LEVEL](#low-level)
+      4.1.2. [LOW LEVEL](#412-low-level)
    
-   4.2. [STRUCTURAL DIAGRAMS](#structural-diagram)
+   4.2. [STRUCTURAL DIAGRAMS](#42-structural-diagram)
 
-      4.2.1. [HIGH LEVEL](#high-level)
+      4.2.1. [HIGH LEVEL](#421-high-level)
 
-      4.2.2. [LOW LEVEL](low-level)
+      4.2.2. [LOW LEVEL](#422-low-level)
 
- 5. [APPLICATIONS](#applications)
+ 5. [APPLICATIONS](#5-applications)
  
  # 1.INTRODUCTION
 
