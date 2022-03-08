@@ -24,6 +24,8 @@ Design of Embedded Project using Arduino
 # Valgrind
 [![Valgrind](https://github.com/AnuragTiwari2000/M2-EmbSystem/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/AnuragTiwari2000/M2-EmbSystem/actions/workflows/Valgrind.yml)
 
+[![CI](https://github.com/AnuragTiwari2000/M2-EmbSystem/actions/workflows/CI.yml/badge.svg)](https://github.com/AnuragTiwari2000/M2-EmbSystem/actions/workflows/CI.yml)
+
 | Folder Name | Contents |
 |---|---|
 | CaseStudy | Two Case studies README.md |
