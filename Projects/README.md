@@ -116,7 +116,7 @@ LLR 4  |A Motor Driver shall be used to switch ON the motor.
 ### HOW
    By using a micro-controller, sensors and few actuators.
    
-# 3 BLOCK DIAGRAM & COMPONENTS DESCRIPTION
+# 3 BLOCK DIAGRAM AND COMPONENTS DESCRIPTION
 
 ## 3.1 BLOCK DIAGRAM
 
