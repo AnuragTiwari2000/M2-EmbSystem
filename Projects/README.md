@@ -10,19 +10,19 @@
    
 2. [REQUIREMENTS](#2-requriments)
    
-   2.1. [High Level Requriment](#21-high-level-requriment)
+   2.1. [High Level Requriment](#21-high-level-requriments)
    
-   2.2. [Low Level Requriment](#22-low-level-requriment)
+   2.2. [Low Level Requriment](#22-low-level-requriments)
 
    2.3. [SWOT ANALYSIS](#23-swot-analysis)
 
-   2.4. [5W'S 1H](#24-5w's-1h)
+   2.4. [5W'S 1H](#24-5W'S-1H)
 
 3. [BLOCK DIAGRAM AND COMPONENTS DESCRIPTION](#3-block-diagram-and-components)
 
    3.1. [BLOCK DIAGRAM](#31-block-diagram)
 
-   3.2. [COMPONENT DESCRIPTION](#32-component-description)
+   3.2. [COMPONENT DESCRIPTION](#32-components-description)
 
 4. [ARCHITECTURE](#architecture)
    
