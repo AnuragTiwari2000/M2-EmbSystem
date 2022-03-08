@@ -28,15 +28,15 @@
    
    4.1. [BEHAVIOURAL DIAGRAMS](#behavioural-diagrams)
          
-        4.1.1. [HIGH LEVEL](#high-level)
+      4.1.1. [HIGH LEVEL](#high-level)
          
-        4.1.2. [LOW LEVEL](#low-level)
+      4.1.2. [LOW LEVEL](#low-level)
    
    4.2. [STRUCTURAL DIAGRAMS](#structural-diagram)
 
-         4.2.1. [HIGH LEVEL](#high-level)
+      4.2.1. [HIGH LEVEL](#high-level)
 
-         4.2.2. [LOW LEVEL](low-level)
+      4.2.2. [LOW LEVEL](low-level)
 
  5. [APPLICATIONS](#applications)
  
@@ -124,12 +124,14 @@ LLR 4  |A Motor Driver shall be used to switch ON the motor.
      Arduino is a one type of micro controller circuit ATmega328P. The programme is carried out in the arduino by using the arduino software in the programming languages like C      and C++ .
 ### SENSORS
 #### Water level sensor
-    Two water level sensors are used to detect the water level. One for detecting if the tank is empty and another one detecting the top level of the tank.
+    The ultrasonic sensor is a non contact type device which uses the sound waves. There are 2 ports on the front, one port generates the ultrasonic waves like a micro speaker        and other port receivers. The ultrasonic waves like a small micro phone. The liquid level is calculated, on the basis of the total time required for the sound to reflect
+     back.
 
 ### ACTUATORS
 
 #### Motor Driver Circuit
-    Motor Driver circuit is used to switch on and off the based upon the signals received from the sensors.
+    * Motor Driver circuit is used to switch on and off the based upon the signals received from the sensors.
+    * Pump is a mechanical device which converts the mechanical energy into the pressure energy. It creates the partial vacuum in the suction side and sucks the liquid which is       delivered with high pressure at a required height.
 
 #### LED’s
     Shows the status of motor wether it is on or off.

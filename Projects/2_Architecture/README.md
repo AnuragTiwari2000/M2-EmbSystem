@@ -26,8 +26,8 @@
      Arduino is a one type of micro controller circuit ATmega328P. The programme is carried out in the arduino by using the arduino software in the programming languages like C      and C++ .
 ### SENSORS
 #### Water level sensor
-    Two water level sensors are used to detect the water level. One for detecting if the tank is empty and another one detecting the top level of the tank.
-
+    The ultrasonic sensor is a non contact type device which uses the sound waves. There are 2 ports on the front, one port generates the ultrasonic waves like a micro speaker        and other port receivers. The ultrasonic waves like a small micro phone. The liquid level is calculated, on the basis of the total time required for the sound to reflect
+     back.
 ### ACTUATORS
 
 #### Motor Driver Circuit
