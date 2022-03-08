@@ -6,4 +6,4 @@
 
 * https://www.youtube.com/watch?v=08dcoXZEtqs
 
-* https://circuitdigest.com/microcontroller-projects water-level-indicator-project-using-arduino
+* https://circuitdigest.com/microcontroller-projectswater-level-indicator-project-using-arduino
