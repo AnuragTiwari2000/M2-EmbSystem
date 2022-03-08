@@ -37,6 +37,10 @@
       4.2.1. [HIGH LEVEL STRUCTURAL DIAGRAM](#421-high-level-structural-diagram)
 
       4.2.2. [LOW LEVEL STRUCTURAL DIAGRAM](#422-low-level-structural-diagram)
+     
+     4.3. [FLOW CHART](#43-flow-chart)
+     
+     4.4. [IMAGES OF SIMULATION](#44-images-of-simulation)
 
  5. [APPLICATIONS](#5-applications)
  
@@ -164,11 +168,11 @@ LLR 4  |A Motor Driver shall be used to switch ON the motor.
 
 ![LOW LEVEL](https://user-images.githubusercontent.com/98815562/155871682-040c1e9a-2aa3-4144-834e-76bd9ea63c4c.png)
 
-### FLOW CHART
+### 4.3 FLOW CHART
 
 ![image](https://user-images.githubusercontent.com/98815562/157078743-347a11ec-1a17-4b9d-99cd-5ff0b5572413.png)
 
-# IMAGES OF SIMULATION
+### 4.4 IMAGES OF SIMULATION
 
 ## When water tank is full
 
