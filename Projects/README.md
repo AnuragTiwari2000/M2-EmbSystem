@@ -199,7 +199,7 @@ LLR 4  |A Motor Driver shall be used to switch ON the motor.
 ![Screenshot (176)](https://user-images.githubusercontent.com/98815562/157211633-cf8a0294-bff3-446b-90b3-15a16bd88469.png)
 
 
-# 5.APPLICATIONS
+# 5 APPLICATIONS
   * Houses
   * Industries
   * Schools
