@@ -52,7 +52,7 @@ nuclear power generation plants etc. It also provides the facility to check wate
  
  # 2.REQUIREMENTS
  
- ## 2.1 High Level Requirements:
+ ## 2.1 High Level Requirements
 
 ID     | Description
 -------| -----------------------------------------
@@ -61,7 +61,7 @@ HLR 2  |Alert the user when the tank is filled.
 HLR 3  |To turn OFF the motor when the tank is full
 HLR 4  |To turn ON the motor when the tank becomes empty.
 
-## 2.2 Low Level Requirements:
+## 2.2 Low Level Requirements
 
 
 ID     | Description
