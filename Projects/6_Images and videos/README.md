@@ -23,3 +23,8 @@
 ## When capacity of water tank is at less than 100%
 
 ![Screenshot (176)](https://user-images.githubusercontent.com/98815562/157211633-cf8a0294-bff3-446b-90b3-15a16bd88469.png)
+
+## SIMULATION
+
+https://user-images.githubusercontent.com/98815562/157303897-39e9e1c0-7853-4711-ae60-31970d245f82.mp4
+
